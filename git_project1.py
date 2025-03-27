@@ -10,6 +10,7 @@ import midi2audio
 from midi2audio import FluidSynth
 import fluidsynth
 
+#sjdhsj
 
 def frequency_to_note(frequency):
     """Определение названия ноты по частоте с помощью бинарного поиска"""
